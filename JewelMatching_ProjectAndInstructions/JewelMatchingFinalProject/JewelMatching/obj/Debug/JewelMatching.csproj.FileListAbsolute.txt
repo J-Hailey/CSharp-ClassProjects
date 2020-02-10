@@ -1,0 +1,48 @@
+C:\Users\churchj\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\bin\Debug\JewelMatching.exe.config
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\obj\Debug\JewelMatching.csprojResolveAssemblyReference.cache
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\obj\Debug\MainWindow.g.cs
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\obj\Debug\App.g.cs
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\obj\Debug\JewelMatching_MarkupCompile.cache
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\obj\Debug\JewelMatching_MarkupCompile.lref
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\bin\Debug\JewelMatching.exe.config
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\bin\Debug\JewelMatching.exe
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\bin\Debug\JewelMatching.pdb
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\obj\Debug\MainWindow.baml
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\obj\Debug\JewelMatching.g.resources
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\obj\Debug\JewelMatching.ImageResources.resources
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\obj\Debug\JewelMatching.Properties.Resources.resources
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\obj\Debug\JewelMatching.csproj.GenerateResource.Cache
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\obj\Debug\JewelMatching.exe
+C:\Users\jcchu_000\Dropbox\code\VisualStudio\JewelMatching\JewelMatching\obj\Debug\JewelMatching.pdb
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\bin\Debug\JewelMatching.exe.config
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\bin\Debug\JewelMatching.exe
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\bin\Debug\JewelMatching.pdb
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.csprojResolveAssemblyReference.cache
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\MainWindow.g.cs
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\App.g.cs
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching_MarkupCompile.cache
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching_MarkupCompile.lref
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\MainWindow.baml
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.g.resources
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.ImageResources.resources
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.Properties.Resources.resources
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.csproj.GenerateResource.Cache
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.csproj.CoreCompileInputs.cache
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.exe
+C:\Users\James\Dropbox\code\VisualStudio\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.pdb
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\bin\Debug\JewelMatching.exe.config
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\bin\Debug\JewelMatching.exe
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\bin\Debug\JewelMatching.pdb
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\MainWindow.g.cs
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\App.g.cs
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching_MarkupCompile.cache
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching_MarkupCompile.lref
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\MainWindow.baml
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.g.resources
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.ImageResources.resources
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.Properties.Resources.resources
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.csproj.GenerateResource.cache
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.exe
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.pdb
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.csprojResolveAssemblyReference.cache
+E:\CSCI 3005\_Final Project\JewelMatchingFinalProject\JewelMatchingFinalProject\JewelMatching\obj\Debug\JewelMatching.csproj.CoreCompileInputs.cache
