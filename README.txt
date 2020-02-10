@@ -1,3 +1,5 @@
 Hello this my README page. 
 
-I made a mistake when starting this repository, but this page will be full of content regarding code done in C# (eventually)
+This page will be regarding code done in C#
+
+For The 'NotContra' folder, please read the word file for further documentation provided by a campus instructor/professor. 
